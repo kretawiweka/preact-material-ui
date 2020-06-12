@@ -1,5 +1,7 @@
 # preact-material-ui
 
+### Preact Fast 3kB alternative to React with material-ui
+
 ## CLI Commands
 
 ``` bash
